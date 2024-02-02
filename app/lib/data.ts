@@ -11,7 +11,7 @@ import {
 import { formatCurrency } from './utils';
 
 export async function fetchRevenue() {
-  // Add noStore() here to prevent the response from being cached. jimmy 
+  // Add noStore() here to prevent the response from being cached. jimmy twelve decks
   // This is equivalent to in fetch(..., {cache: 'no-store'}).
 
   try {
